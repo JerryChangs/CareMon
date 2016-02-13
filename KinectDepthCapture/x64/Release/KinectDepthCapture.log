@@ -1,0 +1,8 @@
+﻿  KinectDepthCapture.cpp
+KinectDepthCapture.cpp(145): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  9 of 207 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KinectDepthCapture.vcxproj -> C:\Users\Jerry Chang\documents\visual studio 2015\Projects\KinectDepthCapture\x64\Release\KinectDepthCapture.exe
